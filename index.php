@@ -88,5 +88,15 @@
     foreach ($cores as $cor) {
         echo $cor. "<br>";
     }
-?>
 
+    $idade = 12;
+    if ($idade < 12) {
+        echo "Criança";
+    }
+    elseif ($idade = (12 && 17)) {
+        echo "Adolescente";
+    }
+    if ($idade > 17) {
+        echo "Adulto";
+    }
+?>
