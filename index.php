@@ -1,6 +1,6 @@
 <?php
-    $nome = "Emerson";
-    $idade = 52;
+    $nome = "Sidney";
+    $idade = 14;
     echo "Meu nome é ".$nome.", e tenho ".$idade." anos.";
     echo "<hr>";
     echo "<center><h2>SENAI - DEVELOPER</h2></center>";
@@ -89,3 +89,4 @@
         echo $cor. "<br>";
     }
 ?>
+
